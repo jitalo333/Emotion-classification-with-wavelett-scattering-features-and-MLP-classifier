@@ -1,0 +1,1 @@
+# Emotion-classification-with-wavelett-scattering-features-and-MLP-classifier
